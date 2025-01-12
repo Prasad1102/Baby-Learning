@@ -6,4 +6,4 @@
 <p>3. Generate QR Code for image</p>
 <p>4. Scan QR Code</p>
 <p>5. Generate Audio</p>
-<p>6. Play Audio</p>
+<p>6. Play Audio Button</p>
